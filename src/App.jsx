@@ -36,6 +36,7 @@ export function App() {
         <div className="shrink-0 grow-0 border rounded-full w-[150px] h-[150px]"></div>
         <div className="w-full">
           <h3>Purposing</h3>
+          <h3>Purposing</h3>
           <p>
             It is a long established fact that a reader will be distracted by
             the readable content of a page when looking at its layout.
